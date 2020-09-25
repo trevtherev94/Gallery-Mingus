@@ -1,0 +1,21 @@
+header {
+  background-color: lightgray;
+  position: relative;
+}
+
+nav {
+  position: absolute;
+}
+
+h1,
+h2 {
+  text-align: center;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+.jumbotron {
+}
